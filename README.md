@@ -9,7 +9,13 @@ PyBer has asked us to present the summary of the ride-sharing data per city type
 ## 2. Important differences between the ride-sharing dynamic in the rural neighborhood and the urban areas
 
 ### 2.1 PyBer's activity is centralised in the urban areas
-The chart below is the summary of the ride-sharing dynamic for PyBer during the first five months of 2019. The overall analysis is that PyBer's main activity is in the urban areas:
+The chart below is the summary of the ride-sharing dynamic for PyBer during the first five months of 2019. 
+
+<p align="center"> <b> Ride-sharing summary DataFrame by city type
+
+![Summary](https://user-images.githubusercontent.com/85641189/126315058-0584c17a-7d28-47a7-83db-301cb8aeee80.png)
+
+The overall analysis is that PyBer's main activity is in the urban areas:
 * The urban areas count for 68,4% of the total rides in comparison with 26,3% in the suburban areas and 5,3% for the rural neighborhoods,
 
 ![Fig6](https://user-images.githubusercontent.com/85641189/126203752-14795af8-a5e0-47cf-856c-5eb483dd2b34.png)
@@ -22,7 +28,7 @@ The chart below is the summary of the ride-sharing dynamic for PyBer during the 
 
 
 ### 2.2 PyBer's drivers are concentrated in the urban areas where the average fare per driver is extremely low
-PyBer totalises 2,405 drivers in the urban areas whereas only 78 drivers work in the rural neighborhoods. The urban areas also register the higher total fares in USD between January and May 2019 with a weekly total fare between 1,500 and 2,500 USD. In the rural neighborhoods, the weekly total fare is below 500 USD.
+PyBer totalises 2,405 drivers in the urban areas whereas only 78 drivers work in the rural neighborhoods. The urban areas also register the higher total fares between January and May 2019 with a weekly total fare between 1,500 and 2,500 USD. In the rural neighborhoods, the weekly total fare is below 500 USD.
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/85641189/126204830-4f5cc330-0c24-4bb3-8f36-9a013bbe2512.png)
 
